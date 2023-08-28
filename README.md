@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @ALEJANDRA62
+- 👀 I’m interested in artificial intelligence.
+- 🌱 I’m currently learning Data Fundamentals; the tools and programming languages used in the data ecosystem.
+- 💞️ I’m looking to collaborate on AI and data projects.
+- 📫 How to reach me by email: alejandratraverso62@yahoo.com.ar
