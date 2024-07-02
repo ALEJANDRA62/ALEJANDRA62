@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @ALEJANDRA62 (Alejandra Traverso).
+- 👩‍🦳 Hi, I’m @ALEJANDRA62 (Alejandra Traverso).
 - 👀 I’m interesting in artificial intelligence.
-- I'm a journalist, I was born in Argentina but I live in Fortaleza, Brazil.
-- I always take online courses on data science, cloud computing, machine learning and AI.
-- I would like to collaborate on blogs to write articles about science and technology.
+- ✍I'm a journalist, I was born in Argentina but I live in Fortaleza, Brazil.
+- 💻I always take online courses on data science, cloud computing, machine learning and AI.
+- ✏I would like to collaborate on blogs to write articles about science and technology.
 - 📫 You can contact me by email: alejandratraverso@hotmail.com
